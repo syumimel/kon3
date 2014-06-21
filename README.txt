@@ -9,7 +9,7 @@ dounannda------------
 koko
 
 kon
-
+こ
 koo0
 ko
 lo
@@ -18,4 +18,13 @@ lo
 
  kon
  ko
+ こん
+
+ ko
+ こん
  
+
+ kon
+
+ こんどう
+
